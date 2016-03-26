@@ -45,24 +45,28 @@ The application can be viewed by launching the webserver in the root 'Project EW
 
 ###Data Model Design.
 
-Diagram of app's data model (see example below) AND/OR a sample of the test data used (JSON or equivalent).
+TramoreAC applicaiton Data Model.
 
 ![TramoreACModelView]
 
-Use meaningful sample data. Briefly explain any non-trivial issues.
 
 ###App Design.
 
-A simple diagram showing the app's component design, in particular controllers and services (see example below).
+TramoreAC applicaiton design model.
 
-![][image1]
+![][image2]
 
 ###UI Design.
 
-. . . . . Screenshots of app's views (see example below) with appropriate captions (excluding user regeneration and login views) . . . . . . . 
+Tramore AC Applicaiton Home Page
 
 ![][image3]
 
+![][image3]
+
+![][image3]
+
+![][image3]
 ###Routing.
 
 List of each route supported and the associated view
@@ -96,5 +100,5 @@ The user login has been created using an angular JS form and app controller. The
 As part of my research I researched angular forms and how I could incorporate them into my application and registration processes.
 
 [image1]: ./TramoreACModelView.jpg
-[image2]: ./design.png
-[image3]: ./screen.png
+[image2]: ./TramoreACDesignModel.jpg
+[image3]: ./TramoreACMainPage.jpg
