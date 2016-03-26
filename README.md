@@ -47,7 +47,7 @@ The application can be viewed by launching the webserver in the root 'Project EW
 
 Diagram of app's data model (see example below) AND/OR a sample of the test data used (JSON or equivalent).
 
-![][TramoreACModelView]
+![TramoreACModelView]
 
 Use meaningful sample data. Briefly explain any non-trivial issues.
 
