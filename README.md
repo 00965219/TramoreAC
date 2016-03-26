@@ -55,7 +55,7 @@ Use meaningful sample data. Briefly explain any non-trivial issues.
 
 A simple diagram showing the app's component design, in particular controllers and services (see example below).
 
-![][TramoreACDesignModel]
+![][image1]
 
 ###UI Design.
 
@@ -95,6 +95,6 @@ The user login has been created using an angular JS form and app controller. The
 
 As part of my research I researched angular forms and how I could incorporate them into my application and registration processes.
 
-[image1]: ./model.png
+[image1]: ./TramoreACModelView.jpg
 [image2]: ./design.png
 [image3]: ./screen.png
