@@ -58,9 +58,7 @@ TramoreAC applicaiton design model.
 
 ###UI Design.
 
-Tramore AC Applicaiton Home Page
-
-![][image3]
+Please open the document 'TramoreAC UI Design.docx' in the repository to view all of the User Interface design images.
 
 
 ###Routing.
@@ -98,9 +96,4 @@ As part of my research I researched angular forms and how I could incorporate th
 [image1]: ./TramoreACModelView.jpg
 [image2]: ./TramoreACDesignModel.jpg
 [image3]: ./TramoreACMainPage.jpg
-[image4]: ./TramoreACMainPage.jpg
-[image5]: ./TramoreACMainPage.jpg
-[image6]: ./TramoreACMainPage.jpg
 
-[image3]: ./TramoreACMainPage.jpg
-[image3]: ./TramoreACMainPage.jpg
