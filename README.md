@@ -35,6 +35,8 @@ The objective of this web application was to create a SPA application using the 
 + Node JS
 + Sublime Text Editor
 
+Download the zip file 'Project EWD.zip' which contains all of the application files within the appropriate folder structure.
+
 The application can be viewed by launching the webserver in the root 'Project EWD' directory. Once the webserver has been launched the applicaiton can be viewed using the following address in browser 'http://localhost:8080/tramoreacApp/#/tramoreac'. The login username 'Clodagh' and password 'clodagh1' can be used to login.
 
 + There are no non standard software installations required to launch the application. 
