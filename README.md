@@ -47,7 +47,7 @@ The application can be viewed by launching the webserver in the root 'Project EW
 
 TramoreAC applicaiton Data Model.
 
-![TramoreACModelView]
+![][image1]
 
 
 ###App Design.
@@ -62,11 +62,7 @@ Tramore AC Applicaiton Home Page
 
 ![][image3]
 
-![][image3]
 
-![][image3]
-
-![][image3]
 ###Routing.
 
 List of each route supported and the associated view
@@ -101,4 +97,10 @@ As part of my research I researched angular forms and how I could incorporate th
 
 [image1]: ./TramoreACModelView.jpg
 [image2]: ./TramoreACDesignModel.jpg
+[image3]: ./TramoreACMainPage.jpg
+[image4]: ./TramoreACMainPage.jpg
+[image5]: ./TramoreACMainPage.jpg
+[image6]: ./TramoreACMainPage.jpg
+
+[image3]: ./TramoreACMainPage.jpg
 [image3]: ./TramoreACMainPage.jpg
