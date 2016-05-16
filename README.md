@@ -96,9 +96,9 @@ As part of my research I researched angular forms and how I could incorporate th
 [image2]: ./TramoreACDesignModel.jpg
 [image3]: ./TramoreACMainPage.jpg
 
-Assignment 2 UPdate:
+# Assignment 2 UPdate:
 
-Main Features:
+##Main Features:
 •	Home Page (News and useful links)
 •	Profile (maintain your profile)
 •	Members (Maintain Members)
@@ -109,12 +109,12 @@ Main Features:
 •	API’s integrated Angular JS SPA client app that is integrated with a web API server.
 •	API’s (GET, POST, PUT & DELETE implemented)
 
-Non- Standard Technical Features
+##Non- Standard Technical Features
 •	Headers and Footers are ‘Include’ pages.
 •	Navigations bars are implemented as ‘Include’ pages.
 •	Used $locationProvider from html5 to simplify the URL’s and remove the #.
 
-HIGH LEVEL STRUCTURE
+##HIGH LEVEL STRUCTURE
 API
 Config
 Node modules
