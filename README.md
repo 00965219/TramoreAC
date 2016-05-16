@@ -14,7 +14,6 @@ A catalogue listing club gear available to members is also available to the user
 
 The objective of this web application was to create a SPA application using the Angular JS MVC architectural design framework. I set out to use the key concepts learned in class and through the lab tutorials for Angular JS; Data-Binding, DOM / View updates based on model, Modular Architecture for the DOM, controllers and services. 
 
-
  . . . . . List of user features (excluding user registration and authentication) . . . . 
  
  + Hash Based Routing that allow the SPA application appear like a tradtional website to users.
@@ -96,4 +95,31 @@ As part of my research I researched angular forms and how I could incorporate th
 [image1]: ./TramoreACModelView.jpg
 [image2]: ./TramoreACDesignModel.jpg
 [image3]: ./TramoreACMainPage.jpg
+
+Assignment 2 UPdate:
+
+Main Features:
+•	Home Page (News and useful links)
+•	Profile (maintain your profile)
+•	Members (Maintain Members)
+•	Posts (Blog articles posted by members related to running)
+•	Node JS javascript runtime server
+•	Express Server
+•	Mongolab Database and Mongoose library used for communicating with the MongoDB datastore.
+•	API’s integrated Angular JS SPA client app that is integrated with a web API server.
+•	API’s (GET, POST, PUT & DELETE implemented)
+
+Non- Standard Technical Features
+•	Headers and Footers are ‘Include’ pages.
+•	Navigations bars are implemented as ‘Include’ pages.
+•	Used $locationProvider from html5 to simplify the URL’s and remove the #.
+
+HIGH LEVEL STRUCTURE
+API
+Config
+Node modules
+Public
+Package.json
+Routes.js
+Server.js
 
