@@ -99,27 +99,27 @@ As part of my research I researched angular forms and how I could incorporate th
 # Assignment 2 UPdate:
 
 ##Main Features:
-•	Home Page (News and useful links)
-•	Profile (maintain your profile)
-•	Members (Maintain Members)
-•	Posts (Blog articles posted by members related to running)
-•	Node JS javascript runtime server
-•	Express Server
-•	Mongolab Database and Mongoose library used for communicating with the MongoDB datastore.
-•	API’s integrated Angular JS SPA client app that is integrated with a web API server.
-•	API’s (GET, POST, PUT & DELETE implemented)
++ Home Page (News and useful links)
++	Profile (maintain your profile)
++	Members (Maintain Members)
++	Posts (Blog articles posted by members related to running)
++	Node JS javascript runtime server
++	Express Server
++	Mongolab Database and Mongoose library used for communicating with the MongoDB datastore.
++	API’s integrated Angular JS SPA client app that is integrated with a web API server.
++	API’s (GET, POST, PUT & DELETE implemented)
 
 ##Non- Standard Technical Features
-•	Headers and Footers are ‘Include’ pages.
-•	Navigations bars are implemented as ‘Include’ pages.
-•	Used $locationProvider from html5 to simplify the URL’s and remove the #.
++	Headers and Footers are ‘Include’ pages.
++	Navigations bars are implemented as ‘Include’ pages.
++	Used $locationProvider from html5 to simplify the URL’s and remove the #.
 
 ##HIGH LEVEL STRUCTURE
-API
-Config
-Node modules
-Public
-Package.json
-Routes.js
-Server.js
++ API
++ Config
++ Node modules
++ Public
++ Package.json
++ Routes.js
++ Server.js
 
