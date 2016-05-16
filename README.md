@@ -115,11 +115,11 @@ As part of my research I researched angular forms and how I could incorporate th
 +	Used $locationProvider from html5 to simplify the URL’s and remove the #.
 
 ##HIGH LEVEL STRUCTURE
-+ API
-+ Config
++ API - Web api/routing scripts folder
++ Config - Express apps configuration scripts folder
 + Node modules
-+ Public
-+ Package.json
++ Public - Public web resources folder
++ Package.json - application package description file
 + Routes.js
-+ Server.js
++ Server.js - Base Application Script for my express application
 
