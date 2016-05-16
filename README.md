@@ -30,6 +30,7 @@ The objective of this web application was to create a SPA application using the 
 
 + AngularJS 1.x
 + Bootstrap 3
++ $http server
 + jquery-2.1.3
 + Node JS
 + Sublime Text Editor
@@ -123,3 +124,20 @@ As part of my research I researched angular forms and how I could incorporate th
 + Routes.js
 + Server.js - Base Application Script for my express application
 
+###Installation requirements.
+
++ AngularJS 1.x
++ Bootstrap 3
++ jquery-2.1.3
++ Node JS
++ Express
++ MongoDB
++ Mongoose
++ Sublime Text Editor
+
+Download the zip file 'Assignment2.zip' which contains a folder called 'TramoreAC2' that has all of the application files within the appropriate folder structure.
+
+The application can be viewed by launching the appliction by runing server.js using node in the root applicaiton folder 'TramoreAC2'.
+Once the express webserver and mongoDB connection has been establised upon luanch the applicaiton can be viewed using the following address in browser 'http://localhost:4000/myhome'. 
+
++ It is required that the applications above be installed and running successfully in order to launch this application successfully.
