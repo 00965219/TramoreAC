@@ -146,6 +146,6 @@ Once the express webserver and mongoDB connection has been establised upon luanc
 
 TramoreAC applicaiton design model.
 
-![][image4]
+![TramoreACDesignModel2.jpg ][image4]
 
 Demo Presentation - See Assignment2_App Presentation.pptx
