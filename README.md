@@ -141,3 +141,11 @@ The application can be viewed by launching the appliction by runing server.js us
 Once the express webserver and mongoDB connection has been establised upon luanch the applicaiton can be viewed using the following address in browser 'http://localhost:4000/myhome'. 
 
 + It is required that the applications above be installed and running successfully in order to launch this application successfully.
+
+###App Design.
+
+TramoreAC applicaiton design model.
+
+![][image4]
+
+Demo Presentation - See Assignment2_App Presentation.pptx
